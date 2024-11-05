@@ -1,6 +1,6 @@
 {
   "name": "@procedure/expo-image-editor",
-  "version": "1.8.0",
+  "version": "1.0.0",
   "description": "A super simple image cropping and rotation tool for Expo that runs on iOS, Android and Web!",
   "main": "lib/commonjs/index.js",
   "types": "lib/typescript/src/index.d.ts",
@@ -129,8 +129,7 @@
     "url": "https://github.com/raveracker/expo-image-editor/issues"
   },
   "directories": {
-    "example": "example",
-    "lib": "lib"
+    "example": "example"
   },
   "license": "MIT"
 }
